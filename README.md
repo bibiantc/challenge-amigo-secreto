@@ -15,9 +15,22 @@ seleccionar un nombre aleatorio y mostrarlo en pantalla
 de su preferencia ya sea Google Chrome, Mozilla Firefox, Safari, Opera
 
 # Jugar amigo secreto 
--Abrir en el navegador el archivo index.html
--Agregar los nombres de los amigos, dar Click en el botón añadir 
--Teniendo la lisa de amigos agregados dar Clik en “sortear amigo”
+- Abrir en el navegador el archivo index.html
+
+- **Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** para agregarlos a la lista.
+
+![image](https://github.com/user-attachments/assets/62b5def1-f017-4fe6-8028-f5504688346c)
+
+- **Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
+
+![image](https://github.com/user-attachments/assets/45efc06e-7ce9-4ae7-9911-edafd3635d53)
+
+- **Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
+![image](https://github.com/user-attachments/assets/1f99143e-55e9-422c-8427-4898b3889857)
+
+- **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
+
+![image](https://github.com/user-attachments/assets/ac3d1b2c-7b85-4edb-9e1c-8fb425d1bd10)
 
 # Construcción de aplicación
 - JavaScript:  lenguaje de programación. 
